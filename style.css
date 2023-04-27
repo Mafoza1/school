@@ -3,13 +3,14 @@ html {
 }
 
 body {
+    background-attachment: fixed;
     background-color: #2f3038;
     background-image: url(pozadina.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
     background-image transition-property: 
-    background-attachment: fixed;
+
 }
 
 .container {
